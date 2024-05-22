@@ -5,6 +5,5 @@
     "ms-dotnettools.csharp",
     "ms-vscode.cpptools",
     "ms-dotnettools.vscode-dotnet-runtime"
-  ],
-  "postCreateCommand": "dotnet restore"
+  ]
 }
