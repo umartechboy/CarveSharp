@@ -1,0 +1,10 @@
+{
+  "name": "C++ and C# Development",
+  "image": "mcr.microsoft.com/vscode/devcontainers/dotnet:7.0",
+  "extensions": [
+    "ms-dotnettools.csharp",
+    "ms-vscode.cpptools",
+    "ms-dotnettools.vscode-dotnet-runtime"
+  ],
+  "postCreateCommand": "dotnet restore"
+}
